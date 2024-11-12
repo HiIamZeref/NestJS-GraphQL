@@ -1,0 +1,15 @@
+Resolver em GraphQL:
+    Os resolvers em GraphQL são funções que resolvem os campos do tipo de objeto em uma consulta.
+    São paralelos aos Controllers em REST.
+    As Queries são paralelas ao GET dos verbos HTTP em REST.
+
+
+Mutations:
+    As mutations são usadas para criar, atualizar e excluir dados.
+    As mutations são paralelas aos verbos POST, PUT e DELETE em REST.
+
+
+DTOs em GraphQL:
+    Em vez de criarmos DTOs, podemos criar um objeto GraphQL que representa a entrada e saída de dados.
+    O nome desse objeto é InputType.
+
